@@ -1,0 +1,8 @@
+OKYS (Okul / Kütüphane Yönetim Sistemi) - Sistem Gereksinimleri (SRS)
+
+1. Amaç: Kütüphanedeki kitapların, fiziksel kopyaların ve üyelerin ödünç alma işlemlerinin dijital ortamda takip edilmesidir.
+2. Temel Aktörler: Kullanıcı (Öğrenci/Üye), Kütüphane Görevlisi.
+3. Fonksiyonel Gereksinimler:
+   - Sistem yeni kitap ve kopya ekleyebilmelidir.
+   - Kullanıcılar sisteme kaydedilebilmelidir.
+   - Bir kitap kopyası uygun durumdaysa kullanıcıya ödünç verilebilmeli ve kitap durumu güncellenmelidir.
